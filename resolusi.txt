@@ -1,3 +1,5 @@
 Resolusi
 
 isi file resolusi
+
+10 menit kemudian file di edit untuk melihat perubahan commite
